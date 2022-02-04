@@ -1,6 +1,7 @@
 title: Awesome Blog
 author: Stelios Rusta
 email: steliosrusta@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
  A Blog to help you be active and maintain a healthy lifestyle for the long-term, the benefits of that are remarkable! 
 
@@ -9,4 +10,4 @@ twitter_username: Stelios Rusta
 github_username:  SteliosRusta 
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-theme : minima
+
